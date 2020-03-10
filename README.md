@@ -1,14 +1,19 @@
 # W02D02 - Asynchronous Control Flow
 
 ### To Do
-* [ ] Review: Higher Order Functions
-* [ ] Asynchronous Programming
-* [ ] Blocking vs Non-Blocking
-* [ ] `setTimeout` and `setInterval`
-* [ ] File System Functions (`fs`)
+* [x] Review: Higher Order Functions
+* [x] Asynchronous Programming
+* [x] Blocking vs Non-Blocking
+* [x] `setTimeout` and `setInterval`
+* [x] File System Functions (`fs`)
 
+### HOF
+- Function that takes another function (callback) as a parameter
+- Function that returns another function
 
-
+### JS Sync? Async?
+- JavaScript is sync
+- event loop
 
 
 
